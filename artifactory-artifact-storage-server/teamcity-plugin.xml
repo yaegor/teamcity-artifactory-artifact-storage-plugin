@@ -7,7 +7,7 @@
     <description>Allows storing build artifacts in a JFrog Artifactory repository</description>
     <vendor>
       <name>Kierran McPherson</name>
-      <url>https://github.com/kierrnam</url>
+      <url>https://github.com/KierranM</url>
     </vendor>
   </info>
   <deployment use-separate-classloader="true" />
